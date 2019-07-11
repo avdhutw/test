@@ -1,0 +1,14 @@
+C:\Users\spartan\source\repos\Demochatboot\bin\Debug\netcoreapp2.2\Demochatboot.deps.json
+C:\Users\spartan\source\repos\Demochatboot\bin\Debug\netcoreapp2.2\Demochatboot.runtimeconfig.json
+C:\Users\spartan\source\repos\Demochatboot\bin\Debug\netcoreapp2.2\Demochatboot.runtimeconfig.dev.json
+C:\Users\spartan\source\repos\Demochatboot\bin\Debug\netcoreapp2.2\Demochatboot.dll
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.csprojAssemblyReference.cache
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.csproj.CoreCompileInputs.cache
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.RazorAssemblyInfo.cache
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.RazorAssemblyInfo.cs
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.AssemblyInfoInputs.cache
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.AssemblyInfo.cs
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.RazorTargetAssemblyInfo.cache
+C:\Users\spartan\source\repos\Demochatboot\bin\Debug\netcoreapp2.2\Demochatboot.pdb
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.dll
+C:\Users\spartan\source\repos\Demochatboot\obj\Debug\netcoreapp2.2\Demochatboot.pdb
